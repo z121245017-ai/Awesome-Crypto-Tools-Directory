@@ -408,6 +408,7 @@ Ship dApps faster with production RPC, IPFS, and indexing APIs—Alchemy, QuickN
 | [Infura](https://cryptotoolsdirectory.com/tools/infura)       | 9.5 /10  | Ethereum RPC        | ETH/L2 + IPFS apps          | Mature Consensys RPC/IPFS stack; params: daily request caps, project keys, network endpoints, IPFS gateway |
 | [The Graph](https://cryptotoolsdirectory.com/tools/the-graph) | 9.4 /10  | Indexing protocol   | Subgraph / GraphQL queries  | Decentralized event indexing; params: subgraph schema, query fees, indexing status, network selection      |
 | [Guava Wallet Intelligence](https://www.guavaintel.com/api-reference) | 8.5 /10  | Security & risk API | Token/wallet risk scanning  | Honeypot detection, wallet risk scoring, 31-chain coverage, REST API + MCP server, free tier 10 req/day    |
+| [Chain.Love](https://chain.love/) | — | Web3 infra directory & MCP | Comparing RPCs, explorers, bridges & wallets | Open-source infrastructure directory across 100+ blockchains (RPC APIs, indexers, explorers, bridges, oracles, faucets, SDKs, wallets & MCP servers) with public JSON data and hosted MCP |
 
 ---
 
